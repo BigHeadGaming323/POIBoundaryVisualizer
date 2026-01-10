@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="POI Boundary Visualizer" />
+    <Description value="Displays the hidden POI reset boundaries" />
+    <Author value="BigHeadGaming323" />
+    <Version value="0.1.0" />
+    <Website value="https://github.com/BigHeadGaming323/POIBoundaryVisualizer" />
+    <SkipWithAntiCheat value="true" />
+</xml>
